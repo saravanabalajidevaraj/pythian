@@ -4,11 +4,7 @@
 <head>
    <meta charset="utf-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="keywords" content="gobra agency" />
-   <meta name="description" content="Gobra Agency" />
-   <meta name="author" content="Genewtech" />
-   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-   <title>Gobra Agency</title>
+
    <?php include "common/header.php";?>
 </head>
 <style>
