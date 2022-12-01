@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home4/pythiangames/public_html/demo
+    - /bin/cp -R * $DEPLOYPATH
